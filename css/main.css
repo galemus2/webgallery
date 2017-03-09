@@ -2,9 +2,9 @@
   box-sizing: border-box;
 }
 body {
-  color: #333333; 
+  color: #20B2AA; 
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  background-color: #c4dce1;              /*change your Bkg color*/
+  background-color:   #FFB6C1;              /*change your Bkg color*/
 
 }
 
@@ -30,8 +30,8 @@ footer p {
 }
 
 header {
-  background: #C8C1B7;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  background: #FFB6C1;
+  background-image: url("../img/glbanner.jpg"); /*change your banner image*/
   background-size: cover;
   border-bottom: 1px solid #999999;
   height: 120px;
@@ -62,7 +62,7 @@ header nav > ul li {
   height: 100%;
   float: left;
   font-weight: 300;
-  font-size: 36px;            /* Font size on banner for menu buttons only*/
+  font-size: 30px;            /* Font size on banner for menu buttons only*/
   list-style-type: none;
   margin-right: 2rem;
   transition: border-color 200ms ease-in-out;
@@ -81,14 +81,14 @@ header nav a, header nav a:visited {
   display: block;
   line-height: 60px;
   text-decoration: none;
-  color: #C8C1B7;                         /*changes banner text color*/
+  color: #F0F8FF;                         /*changes banner text color*/
   transition: color 200ms ease-in-out;
 }
 
 
 .gallery li {
-  background-color: #333333;
-  border: 1px solid #999999;
+  background-color: #F0F8FF;
+  border: 1px solid #48D1CC;
   border-radius: 2px;
   float: left;
   list-style-type: none;
